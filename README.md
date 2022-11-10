@@ -4,7 +4,7 @@
  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.  
  - 😄 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- 💬 Ask me about anything, I am happy to help. 
+- 💬 Ask me about anything, I am happy to help.  
 
 - :mailbox:How to reach me: nastya.panysh@gmail.com 
  
