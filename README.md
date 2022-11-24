@@ -6,7 +6,9 @@
  
 - 💬 Ask me about anything, I am happy to help.    
 
-- :mailbox:How to reach me: nastya.panysh@gmail.com  
+- :mailbox:How to reach me: nastya.panysh@gmail.com 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiya-panysh-627ab4212/) 
     
       
    
@@ -18,4 +20,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiaPanysh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiya-panysh-627ab4212/)
