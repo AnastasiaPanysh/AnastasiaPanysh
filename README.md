@@ -11,7 +11,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiya-panysh-627ab4212/) 
     
       
-   
+    
 ### :fire: My Stats :
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnastasiaPanysh)](https://github.com/anuraghazra/github-readme-stats)
