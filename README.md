@@ -21,6 +21,10 @@
 
 
   
-   
+   ### :fire: My Stats : 
+
+![Anurag's GitHub stats](https://github.com/AnastasiaPanysh/github-readme-stats)
+  
+![Top Langs](https://github.com/AnastasiaPanysh/github-readme-stats)
      
  
