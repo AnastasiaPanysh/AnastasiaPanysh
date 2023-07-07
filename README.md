@@ -9,7 +9,7 @@
 - :mailbox:How to reach me: nastya.panysh@gmail.com    
    
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiya-panysh-627ab4212/) 
-           
+            
                      
        
 ### :fire: My Stats :   
